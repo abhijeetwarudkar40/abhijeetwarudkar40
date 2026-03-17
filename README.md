@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Abhijeet
 
-🎓 Computer Engineering Student at PES Modern College of Engineering
-💻 Passionate about Software Development, Data Structures & Algorithms, Web Development, and Machine Learning 
-🤖 Exploring Machine Learning and real-world problem solving  
+🎓 Computer Engineering Student at PES Modern College of Engineering, 
+Passionate about Software Development, Data Structures & Algorithms, Web Development, and Machine Learning, 
+Exploring Machine Learning and real-world problem solving  
 
 ---
 
@@ -16,9 +16,9 @@
 - Backend development with **Flask**
 
 ### 💼 Projects
-- 🔹 DriveStressEV – EV battery stress prediction system  
-- 🔹 Sortify – DSA visualization tool  
-- 🔹 Student Result Portal – Web-based management system  
+- 🔹 DriveStressEV – EV battery stress prediction system
+- 🔹 Spam-SMS-Detection
+- 🔹 Sortify – DSA visualization tool   
 
 ### 🛠️ Tech Stack
 **Languages:** C++, Java, Python  
@@ -28,7 +28,6 @@
 **ML:** NumPy, Pandas, Scikit-learn  
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/abhijeetwarudkar40  
 - LinkedIn: https://linkedin.com/in/abhijeet-warudkar  
 
 ---
