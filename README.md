@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Abhijeet
 
-<!--
-**abhijeetwarudkar40/abhijeetwarudkar40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at PES Modern College of Engineering
+💻 Passionate about Software Development, Data Structures & Algorithms, Web Development, and Machine Learning 
+🤖 Exploring Machine Learning and real-world problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- Building projects in **Web Development and Machine Learning**
+- Strengthening my **Data Structures & Algorithms** skills
+
+### 🌱 Currently Learning
+- **DSA**
+- **Machine Learning** concepts and applications
+- Backend development with **Flask**
+
+### 💼 Projects
+- 🔹 DriveStressEV – EV battery stress prediction system  
+- 🔹 Sortify – DSA visualization tool  
+- 🔹 Student Result Portal – Web-based management system  
+
+### 🛠️ Tech Stack
+**Languages:** C++, Java, Python  
+**Web:** HTML, CSS, JavaScript  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code  
+**ML:** NumPy, Pandas, Scikit-learn  
+
+### 📫 Connect With Me
+- GitHub: https://github.com/abhijeetwarudkar40  
+- LinkedIn: https://linkedin.com/in/abhijeet-warudkar  
+
+---
+
+⚡ *Always learning, building, and improving.*
