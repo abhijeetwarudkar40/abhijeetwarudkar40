@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abhijeet
 
-🎓 Computer Engineering Student at PES Modern College of Engineering, 
+🎓 Computer Engineering Student, 
 Passionate about Software Development, Data Structures & Algorithms, Web Development, and Machine Learning, 
 Exploring Machine Learning and real-world problem solving  
 
@@ -25,7 +25,6 @@ Exploring Machine Learning and real-world problem solving
 **Web:** HTML, CSS, JavaScript  
 **Database:** MySQL, MongoDB  
 **Tools:** Git, GitHub, VS Code  
-**ML:** NumPy, Pandas, Scikit-learn  
 
 ### 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/abhijeet-warudkar  
