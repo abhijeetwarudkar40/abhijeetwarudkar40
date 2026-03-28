@@ -16,9 +16,9 @@ Exploring Machine Learning and real-world problem solving
 - Backend development with **Flask**
 
 ### Projects
-- 🔹 DriveStressEV – EV battery stress prediction system
-- 🔹 Spam-SMS-Detection
-- 🔹 Sortify – DSA visualization tool   
+- DriveStressEV – EV battery stress prediction system
+- Spam-SMS-Detection
+- Sortify – DSA visualization tool   
 
 ### Tech Stack
 **Languages:** C++, Java, Python  
