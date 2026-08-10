@@ -7,13 +7,12 @@ Exploring Machine Learning and real-world problem solving
 ---
 
 ### What I’m Working On
-- Building projects in **Web Development and Machine Learning**
+- Building projects in **Machine Learning and Web Development**
 - Strengthening my **Data Structures & Algorithms** skills
 
 ### Currently Learning
 - **DSA**
 - **Machine Learning** concepts and applications
-- Backend development with **Flask**
 
 ### Projects
 - DriveStressEV – EV battery stress prediction system
